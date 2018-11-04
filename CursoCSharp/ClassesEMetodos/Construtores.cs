@@ -9,5 +9,6 @@ namespace CursoCSharp.ClassesEMetodos {
         public static void Executar() {
             Console.Write(2490 / 11);
         }
+    
     }
 }
