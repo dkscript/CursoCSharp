@@ -38,6 +38,9 @@ namespace CursoCSharp {
                 //Classes e Metodos
                 { "Membros - Classes e Metodos", Membros.Executar},
                 { "Construtores - Classes e Metodos", Construtores.Executar},
+                { "MetodosComRetorno - Classes e Metodos", MetodosComRetorno.Executar},
+                { "MetodosEstaticos - Classes e Metodos", MetodosEstaticos.Executar},
+                { "AtributosEstaticos - Classes e Metodos", AtributosEstaticos.Executar},
 
             });
 
